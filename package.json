@@ -1,0 +1,13 @@
+{
+  "name": "plops",
+  "version": "1.0.0",
+  "description": "Generadores varios",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "plop": "plop"
+  },
+  "devDependencies": {
+    "plop": "^3.1.1"
+  }
+}
